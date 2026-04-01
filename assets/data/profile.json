@@ -1,0 +1,13 @@
+{
+  "skills": ["Python", "AI/ML", "Web Development", "Flask"],
+  "projects": [
+    {
+      "name": "Agrobot",
+      "description": "AI-based plant disease detection system"
+    },
+    {
+      "name": "QR Portfolio",
+      "description": "QR-based personal identity website"
+    }
+  ]
+}
