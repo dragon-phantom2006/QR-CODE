@@ -1,0 +1,13 @@
+{
+  "skills": ["Python", "AI/ML", "Web Dev"],
+
+  "education": [
+    {"title": "School", "desc": "SOUTH POINT HIGH SCHOOL"},
+    {"title": "College", "desc": "MEGHNAD SAHA INSTITUTE OF TECHNOLOGY"}
+  ],
+
+  "projects": [
+    {"name": "Agrobot", "desc": "Plant disease detection"},
+    {"name":"Portfolio", "desc":"Bio-data through QR Code"}
+  ]
+}
