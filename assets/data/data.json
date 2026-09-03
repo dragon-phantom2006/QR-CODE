@@ -1,0 +1,53 @@
+{
+  "name": "Soham Sil",
+  "role": "AI Developer \u00b7 Web Developer",
+  "tagline": "I build intelligent products and polished digital experiences.",
+  "about": "I\u2019m a technology enthusiast focused on AI-powered applications, modern web development, and practical problem solving. I enjoy turning ideas into clean, useful products with a strong emphasis on usability and impact.",
+  "location": "Kolkata, India",
+  "email": "sohamsil25@gmail.com",
+  "github": "https://github.com/dragon-phantom2006",
+  "linkedin": "https://www.linkedin.com/in/soham-sil-36b567390",
+  "portfolio_url": "https://dragon-phantom2006.github.io/QR-CODE/",
+  "skills": [
+    "Python",
+    "AI / ML",
+    "Web Development",
+    "Flask",
+    "React",
+    "JavaScript",
+    "Git & GitHub",
+    "UI / UX"
+  ],
+  "education": [
+    {
+      "title": "Meghnad Saha Institute of Technology",
+      "meta": "College",
+      "desc": "Technology-focused academic journey with an interest in software, AI and applied engineering."
+    },
+    {
+      "title": "South Point High School",
+      "meta": "School",
+      "desc": "Foundation in science, mathematics and problem-solving."
+    }
+  ],
+  "projects": [
+    {
+      "name": "AgroBot",
+      "label": "AI \u00b7 Agriculture",
+      "desc": "AI-assisted farmer chatbot concept with plant disease detection and practical agricultural guidance.",
+      "accent": "01"
+    },
+    {
+      "name": "AquaGuard Authority Dashboard",
+      "label": "React \u00b7 Monitoring",
+      "desc": "Authority-facing dashboard concept for live water levels, flood alerts, monitoring stations and communication status.",
+      "accent": "02"
+    },
+    {
+      "name": "QR Portfolio",
+      "label": "Web \u00b7 Personal Brand",
+      "desc": "A scan-first personal portfolio designed to make a CV instantly interactive and memorable.",
+      "accent": "03"
+    }
+  ]
+}
